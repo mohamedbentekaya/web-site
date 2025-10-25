@@ -1,5 +1,5 @@
 # web site
-this is a simple website
+this is a nice website
 
 ### Tasks
 - [ ] add HTML file
