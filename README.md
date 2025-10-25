@@ -4,4 +4,4 @@ this is a nice website
 ### Tasks
 - [x] add HTML file
 - [x] add CSS file
-- [ ] add articles
+- [x] add articles

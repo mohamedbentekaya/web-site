@@ -3,3 +3,11 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
 }
+
+main p {
+    background-color: white;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(146, 146, 146, 0.441);
+    width: 300px;
+}
