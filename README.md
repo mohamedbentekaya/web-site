@@ -2,6 +2,6 @@
 this is a nice website
 
 ### Tasks
-- [ ] add HTML file
+- [x] add HTML file
 - [ ] add CSS file
 - [ ] add articles
